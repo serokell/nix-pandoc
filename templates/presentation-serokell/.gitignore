@@ -1,0 +1,6 @@
+*.pdf
+*.html
+*.log
+result
+result-*
+_*
